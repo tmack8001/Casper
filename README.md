@@ -9,6 +9,10 @@ To download, visit the [releases](https://github.com/tmack8001/skeletor-casper/r
  - Google Analytics Support
  - Disqus Commenting on Blog Posts
  - more to come
+ 
+ ## Configuration
+ 
+ All configurable files are located in ghostium/partials/custom.
 
 ## Used by Permission
 
