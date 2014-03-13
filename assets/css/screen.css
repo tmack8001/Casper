@@ -567,9 +567,10 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-meta {
     display: inline-block;
-    margin: 0 0 5px 0;
+    margin: 5px 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.5rem;
+    line-height: 1.5em;
     color: #9EABB3;
 }
 
@@ -580,6 +581,17 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-meta a:hover {
     text-decoration: underline;
+}
+
+.post-meta .author-img {
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-right: 9px;
+}
+
+.author-img {
+    border-radius: 100%
 }
 
 .user-meta {
@@ -1101,6 +1113,10 @@ margin on the iframe, cause it breaks stuff. */
 
     .post-meta {
         font-size: 1.3rem;
+    }
+
+    .post-meta .author-img {
+        display: none
     }
 
     .post-footer {
