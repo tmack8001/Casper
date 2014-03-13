@@ -10,8 +10,12 @@ To download, visit the [releases](https://github.com/tmack8001/skeletor-casper/r
  - Disqus Commenting on Blog Posts
  - FontAwesome for icon font
  - Google Prettier Support (Code Highlighting)
- - Post Images (display post images before feature is enabled in underlying Ghost platform)
- - Add smaller version of site header to individual post pages
+ - Post Images (display post images before post, hacked feature is known and supported in underlying Ghost platform)
+ - Universal Site Header - Added smaller version of site header to individual post pages
+ - Post Metadata / Header
+   - Author Image + Name
+   - Moved to below the post instead of above
+ - Added link back to index page 
  - more to come
  
  ## Configuration
