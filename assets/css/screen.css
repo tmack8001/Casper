@@ -950,7 +950,8 @@ body.nav-opened .nav {
     max-height: 400px;
 }
 
-.post-image img {
+.post-image img,
+.post-content img {
     display: block;
     height: auto;
     margin: 0 auto;
